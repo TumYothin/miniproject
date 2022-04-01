@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072501949076",
+    "project_id": "minproject-ea2ee",
+    "storage_bucket": "minproject-ea2ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072501949076:android:6eb4dce0954139b5252a81",
+        "android_client_info": {
+          "package_name": "io.yothin.dev.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072501949076-1b5h0mc6josddnobl34rpto71o90ehg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.yothin.dev.firebasedemo",
+            "certificate_hash": "1c2fd0d339b9464454afd4e516c06cf286313592"
+          }
+        },
+        {
+          "client_id": "1072501949076-md9u71anja03vlu05qlsq6dm4pkh7pc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uQvMGLn85vpRrokL7dUNuiMpy_g_tlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072501949076-md9u71anja03vlu05qlsq6dm4pkh7pc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
